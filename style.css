@@ -32,7 +32,7 @@ h1{
 }
 
 .jumbotron{
-    background-image: url("./images/Roses.png");
+    background-image: url("Roses.png");
     background-size: cover;
     height: 100vh;
     background-position: center;
@@ -94,7 +94,7 @@ h2 {
     padding: 20px;
     border-radius: 5px;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
-    background-image: url("./images/Roses.png");
+    background-image: url("Roses.png");
     background-size: cover;
     background-position: center;
     height: 300px;
@@ -121,23 +121,23 @@ h2 {
 }
 
 .card1 {
-    background-image: url("./images/2-heads.png");
+    background-image: url("2-heads.png");
 }
 
 .card2{
-    background-image: url("./images/11.1.png");
+    background-image: url("11.1.png");
 }
 .card3{
-    background-image: url("./images/6.png");
+    background-image: url("6.png");
 }
 .card4{
-    background-image: url("./images/Roses.png");
+    background-image: url("Roses.png");
 }
 .card5{
-    background-image: url("./images/sunflower.png");
+    background-image: url("sunflower.png");
 }
 .card6{
-    background-image: url("./images/ctaBackground.png");
+    background-image: url("ctaBackground.png");
 }
 
 
